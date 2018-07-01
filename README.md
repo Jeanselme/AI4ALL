@@ -2,14 +2,14 @@
 Instructors: Vincent Jeanselme (vjeansel@andrew.cmu.edu).  
 
 
-This project has been created for [PreCollege Artifical Intelligence](https://admission.enrollment.cmu.edu/pages/access-artificial-intelligence) at Carnegie Mellon University in July 2018.
+This project has been created for [PreCollege Artifical Intelligence](https://admission.enrollment.cmu.edu/pages/access-artificial-intelligence) in partnership with [AI4ALL](http://ai-4-all.org/) at Carnegie Mellon University in July 2018.
 
 ------
 
 ## Description
-What is the price of your dream house ? This dataset will allow you to answer this question by building a regression model. This model will be based on 79 variables describing each and every aspect of houses in Ames, Iowa. Your goal is to predict the price of the house given these multiple variables.  
+What is the price of your dream house ? This dataset will allow you to answer this question by building a **regression** model. This model will be based on **79 variables** describing each and every aspect of houses in Ames, Iowa. Your goal is to **predict the price of the house** given these multiple variables.  
 
-This project explores a real application of machine learning in order to modelize a problem and to understand the influence of different parameters. You will explore every step of the process: analyzing, visualizing, cleaning the data in order to build and then evaluate different models.  
+This project explores a real application of machine learning in order to modelize a problem and to understand the influence of different parameters. You will explore every step of the process: **analyzing**, **visualizing**, **cleaning** the data in order to build and then **evaluate** different models.  
 You will learn how to build a model in python using standard libraries such as `numpy`, `pandas` and `sklearn` in order to solve your first supervised regression problem. Understanding the data will be a strong focus of this project because machine learning is not magic. It is a tool reflecting an understanding of the data which has to complete the human reflection but not replace it.
 
 ## Planning
