@@ -43,7 +43,7 @@ You will learn how to build a model in python using standard libraries such as `
     These libraries contain functions in order to manipulate your data and use machine learning algorithms.
     Open a terminal and type:
     ```
-    conda install numpy pandas sklearn scipy matplotlib seaborn
+    conda install numpy pandas scikit-learn scipy matplotlib seaborn
     ```
 3. Clone the git repository on your computer
     Open a terminal and type:
